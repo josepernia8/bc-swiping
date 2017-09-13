@@ -6,5 +6,5 @@ Basic Usage:
     
     Important note: 
         This plugin use carousel-control to swipe right and left, in case you don't want left and right controls to show in your HTML simple add a display: none; property to the CSS
-    
-    
+
+DEMO URL: https://jsfiddle.net/josepernia91/j4h9gzqs/
